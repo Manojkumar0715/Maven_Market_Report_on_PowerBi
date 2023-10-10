@@ -46,10 +46,10 @@
 ## Data Model
   - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
   - Poor data modeling affects the over all performance of the report.
-  - Following Good practices of data modeling is must.
-  - In this project, have followed Snowfall data modeling method.
-    
-    <img src="https://github.com/Manojkumar0715/Maven_Market_Report_on_PowerBi/blob/main/Data%20Model%20(Snowflake%20Schema).png"
+  -  Following Good practices of data modeling is must.
+  -  In this project, have followed Snowfall data modeling method.
+
+ <img src="https://github.com/Manojkumar0715/Maven_Market_Report_on_PowerBi/blob/main/Data%20Model%20(Snowflake%20Schema).png"
     class="center">
 
     
